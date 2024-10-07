@@ -1,0 +1,70 @@
+Here’s an optimized version of your interim review:
+
+
+---
+
+WMS Web Application
+
+I was responsible for building key functionalities and ensuring the seamless user experience in the Warehouse Management System (WMS) web application. Major contributions included:
+
+Facial Recognition System: Developed using TensorFlow to validate users.
+
+Database Design: Played a significant role in designing the database schema for the WMS.
+
+Workflows: Created both rating and bulk request creation workflows.
+
+User Allocation Algorithm: Built an algorithm in OutSystems to allocate users and materials for requested services.
+
+UI Development: Developed multiple screens, including request, employee log, and request detail screens. Integrated Google Maps to display service locations.
+
+UI/UX Enhancements: Improved the interface to enhance user experience.
+
+
+WMS Mobile Application
+
+For the mobile counterpart of the WMS system, I focused on building offline capabilities and key user workflows:
+
+Facial Recognition: Developed a TensorFlow-based system for user validation.
+
+Database Schema: Designed the schema for local storage in OutSystems.
+
+Offline Data Sync: Implemented seamless offline synchronization.
+
+Google Maps Integration: Integrated Google Maps for navigation to work locations.
+
+UI/UX Development: Worked on various screens, including the dashboard, task pickup, leave application, and task closing.
+
+
+Strategic KYC System (MUFG Global Services)
+
+I played a key role in building the Strategic KYC system for MUFG Global Services, focusing on efficiency and global-local compatibility:
+
+Database Design: Created primary and backup tables to support business logic.
+
+Workflows & Procedures: Built workflows and created procedures for optimal user experience.
+
+GenAI Integration: Integrated GenAI for document analysis and case summary workflows.
+
+Portal API Integration: Managed seamless portal API integration, exposing APIs for smooth data sync across modules.
+
+UI Enhancements: Improved UI across screening and entity detail screens, incorporating summary views and a copy logic for global and local screens.
+
+
+Customer Due Diligence (CDD)
+
+I worked on a CDD solution with a focus on external database integration and global process adaptation:
+
+External DB Integration: Developed a clone of Digital Enablement with full external database integration.
+
+Architecture Enhancement: Redesigned the application’s architecture into clear CS, BL, WF, and UI modules.
+
+GenAI Integration: Leveraged GenAI for document analysis.
+
+Global Process Modification: Modified processes and respective database tables to support global and local service flows.
+
+Dynamic Block Development: Created a dynamic block for summarizing related cases and handling copy logic in various screens.
+
+
+NewgenONE Omnidocs Training
+
+Attended a week-long NewgenONE Omnidocs training, where I learned about advanced content capture and data extraction tools for multi-channel content sources.
